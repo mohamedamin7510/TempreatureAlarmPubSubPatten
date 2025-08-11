@@ -63,15 +63,20 @@ Publishers do not know who will receive their messages, and subscribers decide w
 TemperatureSensor (Publisher)
         │
         ▼
+        
      EventBus
    ┌────┴────┐
    ▼         ▼
+   
 Display   Alarm
 Subscriber Subscriber
 
 Temperature is 25°C
+
 Temperature is 31°C
+
 ⚠️ Alarm! High temperature detected: 31°C
+
 Temperature is 20°C
 
 ## Why Not Just Use the Observer Pattern?
