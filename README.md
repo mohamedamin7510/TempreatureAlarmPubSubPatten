@@ -62,12 +62,10 @@ Publishers do not know who will receive their messages, and subscribers decide w
 
 TemperatureSensor (Publisher)
         │
-        ▼
-        
+        ▼      
      EventBus
    ┌────┴────┐
    ▼         ▼
-   
 Display   Alarm
 Subscriber Subscriber
 
