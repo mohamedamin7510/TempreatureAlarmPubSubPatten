@@ -59,7 +59,7 @@ Publishers do not know who will receive their messages, and subscribers decide w
 
 ## Flow Diagram
 
-
+```text
 TemperatureSensor (Publisher)
         │
         ▼      
@@ -76,7 +76,7 @@ Temperature is 31°C
 ⚠️ Alarm! High temperature detected: 31°C
 
 Temperature is 20°C
-
+```
 ## Why Not Just Use the Observer Pattern?
 While the Observer pattern also allows one-to-many relationships, it typically requires the subject to hold direct references to observers and call them synchronously.
 In contrast, Publish–Subscribe:
