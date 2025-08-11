@@ -24,11 +24,17 @@ Publishers do not know who will receive their messages, and subscribers decide w
 ## Project Structure
 
 ├── Publisher
+
 │ └── TemperatureSensor.cs # Publishes temperature readings
+
 ├── Subscriber
+
 │ ├── AlarmSubscriber.cs # Triggers alarm if temperature exceeds a threshold
+
 │ └── DisplaySubscriber.cs # Displays temperature readings
+
 ├── EventBus.cs # Manages subscriptions and event distribution
+
 └── Program.cs # Entry point
 
 
@@ -53,7 +59,7 @@ Publishers do not know who will receive their messages, and subscribers decide w
 
 ## Flow Diagram
 
-```text
+
 TemperatureSensor (Publisher)
         │
         ▼
