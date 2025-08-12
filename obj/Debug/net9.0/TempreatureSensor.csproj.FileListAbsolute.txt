@@ -1,0 +1,14 @@
+D:\SWProject_ERDandMapping\Grading System_delegate\TempreatureSensor\bin\Debug\net9.0\TempreatureSensor.exe
+D:\SWProject_ERDandMapping\Grading System_delegate\TempreatureSensor\bin\Debug\net9.0\TempreatureSensor.deps.json
+D:\SWProject_ERDandMapping\Grading System_delegate\TempreatureSensor\bin\Debug\net9.0\TempreatureSensor.runtimeconfig.json
+D:\SWProject_ERDandMapping\Grading System_delegate\TempreatureSensor\bin\Debug\net9.0\TempreatureSensor.dll
+D:\SWProject_ERDandMapping\Grading System_delegate\TempreatureSensor\bin\Debug\net9.0\TempreatureSensor.pdb
+D:\SWProject_ERDandMapping\Grading System_delegate\TempreatureSensor\obj\Debug\net9.0\TempreatureSensor.GeneratedMSBuildEditorConfig.editorconfig
+D:\SWProject_ERDandMapping\Grading System_delegate\TempreatureSensor\obj\Debug\net9.0\TempreatureSensor.AssemblyInfoInputs.cache
+D:\SWProject_ERDandMapping\Grading System_delegate\TempreatureSensor\obj\Debug\net9.0\TempreatureSensor.AssemblyInfo.cs
+D:\SWProject_ERDandMapping\Grading System_delegate\TempreatureSensor\obj\Debug\net9.0\TempreatureSensor.csproj.CoreCompileInputs.cache
+D:\SWProject_ERDandMapping\Grading System_delegate\TempreatureSensor\obj\Debug\net9.0\TempreatureSensor.dll
+D:\SWProject_ERDandMapping\Grading System_delegate\TempreatureSensor\obj\Debug\net9.0\refint\TempreatureSensor.dll
+D:\SWProject_ERDandMapping\Grading System_delegate\TempreatureSensor\obj\Debug\net9.0\TempreatureSensor.pdb
+D:\SWProject_ERDandMapping\Grading System_delegate\TempreatureSensor\obj\Debug\net9.0\TempreatureSensor.genruntimeconfig.cache
+D:\SWProject_ERDandMapping\Grading System_delegate\TempreatureSensor\obj\Debug\net9.0\ref\TempreatureSensor.dll
